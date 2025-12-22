@@ -1,4 +1,5 @@
 https://github.com/iiDk-the-actual/iis.Stupid.Menu
+https://github.com/rickyvr-byte/Spectral-Menu
 https://github.com/iiDk-the-actual/FortniteEmoteWheel
 https://github.com/iiDk-the-actual/TooManyPlayers
 https://github.com/The-Graze/BetterMirror
